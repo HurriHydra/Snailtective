@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 684d6c2e0f6595341b840e0b168ef2fa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Screen1: {instanceID: 0}
+  - Capture: {fileID: 8300000, guid: 324cd7bfb9e954545b212698481c3f3b, type: 3}
+  - Efound: {fileID: 8300000, guid: 5650b60fc3ddebe47a6d9b71b379fc52, type: 3}
+  - EvidenceTotal: {instanceID: 0}
+  - EvidenceNoti: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
